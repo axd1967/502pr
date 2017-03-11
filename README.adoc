@@ -28,7 +28,7 @@ The manuals also seem to differ:
 According to the leaflet
 
 1. strobe is accessed with triple click
-1. there are several strobe modes
+1. there are _several_ strobe modes
 
 link:USER_GUIDE_V30_2012.pdf[]
 
@@ -37,7 +37,7 @@ image:20170311_185942.jpg[]
 
 I have the impression that I was sent
 
-* an old unit
+* an old unit or with the wrong LED type
 * with a new leaflet
 
 But the 4-click mode does return the battery status...
