@@ -1,0 +1,18 @@
+= ZebraLight 502 Photo Red
+:toc:
+:sectnums:
+:toc-placement!:
+:toclevels: 2
+
+toc::[]
+
+== Which one is the Photo Red?
+White sheet inbetween.
+The camera cannot give back true colours, but even there the difference is striking.
+
+image:20170311_183657_Richtone(HDR).jpg[]
+
+
+image:20170311_183801.jpg[]
+
+image:20170311_184044.jpg[]
