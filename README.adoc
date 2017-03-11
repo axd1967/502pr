@@ -35,6 +35,7 @@ link:USER_GUIDE_V30_2012.pdf[]
 image:20170311_185915.jpg[]
 image:20170311_185942.jpg[]
 
-I have the impression thgat I was sent
+I have the impression that I was sent
+
 * an old unit
 * with a new leaflet
