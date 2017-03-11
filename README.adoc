@@ -39,3 +39,5 @@ I have the impression that I was sent
 
 * an old unit
 * with a new leaflet
+
+But the 4-click mode does return the battery status...
