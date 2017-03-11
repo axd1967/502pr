@@ -6,6 +6,10 @@
 
 toc::[]
 
+ZebraLight link: http://www.zebralight.com/H502pr-Photo-Red-AA-Flood-Headlamp_p_175.html
+
+image:20170311_190027.jpg[]
+
 == Which one is the Photo Red?
 White sheet inbetween.
 The camera cannot give back true colours, but even there the difference is striking.
@@ -16,3 +20,21 @@ image:20170311_183657_Richtone(HDR).jpg[]
 image:20170311_183801.jpg[]
 
 image:20170311_184044.jpg[]
+
+== Manuals
+
+The manuals also seem to differ:
+
+According to the leaflet
+
+1. strobe is accessed with triple click
+1. there are several strobe modes
+
+link:USER_GUIDE_V30_2012.pdf[]
+
+image:20170311_185915.jpg[]
+image:20170311_185942.jpg[]
+
+I have the impression thgat I was sent
+* an old unit
+* with a new leaflet
