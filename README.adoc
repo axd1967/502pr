@@ -45,13 +45,17 @@ image:20170311_185942.jpg[]
 
 I have the impression that I was sent
 
-* an old unit or with the wrong LED type
-* with a new leaflet
-
-But the 4-click mode does return the battery status...
+* a unit with a problematic UI (cannot triple-click to get strobe mode, cannot access to "various" strobe modes). one strobe mode is available if going to H1 and double-clicking (provided you programmed H2 to strobe mode).
+* a leaflet that does not entire correspond to the PDF (which is most probably outdated) and to the unit
+* note that the UI _does_ report the voltage (4x click)
 
 == Attempts to get an idea of wavelengths
 
 === Using DVD and CD
 
 See link:./grating/[]
+
+== Conclusion
+Until further notice, don't buy a Zebralight ZLH502pr if you expect a "deeper red". It doesn't make a difference; on the contrary there are other LED lights in the ZL range that provide this. Also, the UI is messy.
+
+I contacted ZL and am waiting for their answer.
