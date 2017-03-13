@@ -1,0 +1,24 @@
+= Wavelength via gratings
+
+:toc:
+:sectnums:
+:toc-placement!:
+:toclevels: 2
+
+toc::[]
+
+== Setup
+
+image:20170313_142642-ann.jpg[]
+
+== DVD
+image:20170313_142543-ann.jpg[]
+
+First, subjective impressions:
+
+* SL indeed has the deepest red
+* H51r is indeed deeper than 502pr
+* H501r has more distribution, which explains why it appears more "orangish" - but it is also more present towards the red end than the 502pr
+
+== CD
+image:20170313_142616-ann.jpg[]

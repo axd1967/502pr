@@ -11,11 +11,12 @@ ZebraLight link: http://www.zebralight.com/H502pr-Photo-Red-AA-Flood-Headlamp_p_
 image:20170311_190027.jpg[]
 
 == Which one is the Photo Red?
+H502pr compared to H501r
+
 White sheet inbetween.
 The camera cannot give back true colours, but even there the difference is striking.
 
 image:20170311_183657_Richtone(HDR).jpg[]
-
 
 image:20170311_183801.jpg[]
 
@@ -41,3 +42,9 @@ I have the impression that I was sent
 * with a new leaflet
 
 But the 4-click mode does return the battery status...
+
+== Attempts to get an idea of wavelengths
+
+=== Using DVD and CD
+
+See link:./grating/[]
