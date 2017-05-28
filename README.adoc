@@ -1,4 +1,4 @@
-= ZebraLight 502 Photo Red
+= ZebraLight 502 Photo Red is _not_ "deep red", but even more orangish than usual red LEDs!
 :toc:
 :sectnums:
 :toc-placement!:
