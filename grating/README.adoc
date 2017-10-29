@@ -1,5 +1,4 @@
 = Wavelength via gratings
-
 :toc:
 :sectnums:
 :toc-placement!:
@@ -16,7 +15,7 @@ image:20170313_142543-ann.jpg[]
 
 First, subjective impressions:
 
-* SL indeed has the deepest red
+* SL (StreamLight SideWinder) indeed has the deepest red
 * H51r is indeed deeper than 502pr
 * H501r has more distribution, which explains why it appears more "orangish" - but it is also more present towards the red end than the 502pr
 * H502pr has a bit less distribution

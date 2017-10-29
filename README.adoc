@@ -59,3 +59,17 @@ See link:./grating/[]
 Until further notice, don't buy a Zebralight ZLH502pr if you expect a "deeper red". It doesn't make a difference; on the contrary there are other LED lights in the ZL range that provide this. Also, the UI is messy.
 
 I contacted ZL and am waiting for their answer.
+
+== Update: replacement light received
+
+On Aug 29, ZebraLight kindly shipped a replacement.
+
+Its UI now works as advertised, but the LED spectrum is still not what is advertised as "photo red" - at least, not when compared to a H501r. The replacement _is_ more reddish and less orangish, which was a major defect in the previous version I received.
+
+However
+
+"The Cree Photo Red LED is all we can source and still be able to work in the H502r/pr driver. If that tint is not what you are looking for, we'll be glad to take it back and refund the money."
+
+I don't care what a driver can or cannot do: if "photo red" is advertised, that's what is being expected; it us useless to spend money on a difference that the eye cannot see.
+
+For details, see link:./retry/[]
